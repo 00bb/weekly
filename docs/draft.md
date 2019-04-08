@@ -18,25 +18,25 @@
 
 尽管如此，日本天皇仍然在日本政治体制中发挥官式和礼节性的作用，其中包括象征性任命日本首相和最高法庭大法官、会见来访的外国首脑和王室成员，接见外国大使和特使，以及接见即将前往海外赴任的日本外交官及配偶等。
 
-2. 三原色：红绿蓝，不是红绿灯的黄
+2、三原色：红绿蓝，不是红绿灯的黄
 
 三原色老是记不清？只要记住一句话：不是红绿灯的黄
 
-3. 看书习惯了掌阅的【方正准圆】字体
+3、看书习惯了掌阅的【方正准圆】字体
 
 ![806-130GG04H2296](https://user-images.githubusercontent.com/25633544/55704467-b8530000-5a0e-11e9-8284-2a150166090c.png)
 
-4. [千万股民炒科技](https://www.huxiu.com/article/292411.html)
+4、[千万股民炒科技](https://www.huxiu.com/article/292411.html)
 
 可作一篇科技股炒作史。
 
-5. 本周观影《流浪地球》《海王》，想读《未来世界的幸存者》
+5、本周观影《流浪地球》《海王》，想读《未来世界的幸存者》
 
 国产科幻还可以。
 
-6. 视频 [十分钟回顾2018年50首热门](https://www.youtube.com/watch?v=dSsas096OgA)
+6、视频 [十分钟回顾2018年50首热门](https://www.youtube.com/watch?v=dSsas096OgA)
 
-7. 搞笑
+7、搞笑
 
 期末，去一年级监考。开考十多分钟，一个圆嘟嘟脸的小男孩哭了起来。
 
@@ -55,10 +55,10 @@
 
 ## 技术
 
-1. [你必须知道的 17 个 Composer 最佳实践](https://learnku.com/php/t/7609/you-have-to-know-17-composer-best-practices-updated-to-22)
+1、[你必须知道的 17 个 Composer 最佳实践](https://learnku.com/php/t/7609/you-have-to-know-17-composer-best-practices-updated-to-22)
 
 应该多看几遍！
 
-2. [如何用30分钟快速优化家中Wi-Fi？阿里工程师有绝招](https://yq.aliyun.com/articles/692337)
+2、[如何用30分钟快速优化家中Wi-Fi？阿里工程师有绝招](https://yq.aliyun.com/articles/692337)
 
 虽然看了半天还是没优化了WiFi，但全篇的知识点还是该学习学习。
